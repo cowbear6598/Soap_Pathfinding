@@ -1,0 +1,18 @@
+{
+  "name": "com.funtech.soap-pathfinding",
+  "version": "1.0.0",
+  "displayName": "Soap's Pathfinding",
+  "description": "A* Pathfinding",
+  "unity": "2019.3",
+  "author": {
+    "name": "Soap",
+    "email": "cowbear6598@gmail.com",
+    "url": "https://github.com/cowbear6598/Soap_Pathfinding.git"
+  },
+  "keywords": [
+    "tools",
+    "soap",
+    "pathfinding"
+  ],
+  "type": "tools"
+}
